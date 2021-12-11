@@ -10,3 +10,4 @@ A translation table for anyone trying to figure out what a certain manufacturing
 | Surfacing Bit                     | Planfräser | Planfræser    |
 | T-nut                             |            | T-møtrik      |
 | V-slot extrusion, V-slot profiles |            | V-Slot profil |
+| Flow meter                        |            | Flowmåler     |
