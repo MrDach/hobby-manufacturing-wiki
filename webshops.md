@@ -26,6 +26,7 @@ TODO: Split list into CNC and 3D Print sections.
 ### United Kingdom (UK)
 - https://ooznest.co.uk/
 - https://www.rennietool.co.uk/
+- https://routercutter.co.uk/
 
 ### Italy
 - https://www.mobiltecnica.com/en
@@ -35,3 +36,5 @@ TODO: Split list into CNC and 3D Print sections.
 
 ## United States (US)
 - https://www.mcmaster.com/
+- https://www.toolstoday.com/
+- https://bitsbits.com/
