@@ -2,6 +2,7 @@
 A list of webshops that sell 3D Print and CNC related items
 
 TODO: Split list into CNC and 3D Print sections.
+TODO: Add categories - I.e. hardware, bits, filament etc
 
 ## Europe
 
