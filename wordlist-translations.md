@@ -11,3 +11,4 @@ A translation table for anyone trying to figure out what a certain manufacturing
 | T-nut                             |            | T-møtrik      |
 | V-slot extrusion, V-slot profiles |            | V-Slot profil |
 | Flow meter                        |            | Flowmåler     |
+| Linear rail                       |            | Linær føring  |
