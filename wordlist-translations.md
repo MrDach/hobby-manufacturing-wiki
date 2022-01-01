@@ -12,3 +12,5 @@ A translation table for anyone trying to figure out what a certain manufacturing
 | V-slot extrusion, V-slot profiles |                  | V-Slot profil  |
 | Flow meter                        |                  | Flowmåler      |
 | Linear rail                       |                  | Linær føring   |
+
+Note: [Tool to edit Markdown table](https://tableconvert.com/markdown-to-markdown)
