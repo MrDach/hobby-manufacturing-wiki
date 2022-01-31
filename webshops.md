@@ -16,6 +16,7 @@ TODO: Add categories - I.e. hardware, bits, filament etc
 - https://cnchobby.dk/
 - https://makersupplies.dk/
 - https://3do.dk/
+- https://www.junget.com/da-dk/shop
 
 ### Portugal
 - https://www.ratrig.com/
