@@ -38,6 +38,9 @@ TODO: Add categories - I.e. hardware, bits, filament etc
 ### Netherlands
 - https://www.woodtoolsanddeco.com/
 
+### Bulgaria
+- https://vallder.com/ (CNC Components and electronics)
+
 ## United States (US)
 - https://www.mcmaster.com/
 - https://www.toolstoday.com/
