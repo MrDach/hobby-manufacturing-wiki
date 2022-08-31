@@ -21,6 +21,7 @@ Danish: En oversættelsestabel for alle der prøver at finde ud af hvad et beste
 | Straigt Edge                      |                  | Retteskinne        |
 | Combination Square                |                  | Kombinationsvinkel |
 | Feeler gauge                      |                  | Søgerblad          |
+| Dial indicator                    |                  | Måleur             |
 
 
 Note: [Tool to edit Markdown table](https://tableconvert.com/markdown-to-markdown)
