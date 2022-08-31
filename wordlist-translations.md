@@ -1,5 +1,4 @@
 # Wordlist
-## Description
 English: A translation table for anyone trying to figure out what a certain tool or manufacturing thing is called in their language.
 
 Danish: En oversættelsestabel for alle der prøver at finde ud af hvad et bestemt værktøj eller produktions ting hedder på deres sprog
