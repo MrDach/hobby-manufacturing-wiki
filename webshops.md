@@ -7,16 +7,21 @@ TODO: Add categories - I.e. hardware, bits, filament etc
 ## Europe
 
 ### Denmark
-- https://3deksperten.dk/
 - https://techbitshop.dk/
-- https://3dstore.dk/
-- https://www.proshop.dk/Filament-3D-Printer
 - https://www.gadgethuset.dk/
 - https://www.stepcraft.dk/
 - https://cnchobby.dk/
 - https://makersupplies.dk/
-- https://3do.dk/
+- 
 - https://www.junget.com/da-dk/shop
+
+#### 3D print
+- https://filament23d.dk/
+- https://3deksperten.dk/
+- https://3dstore.dk/
+- https://www.solunoid.dk/
+- https://3do.dk/
+- https://www.proshop.dk/Filament-3D-Printer
 
 ### Portugal
 - https://www.ratrig.com/
