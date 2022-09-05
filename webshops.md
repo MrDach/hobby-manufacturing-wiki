@@ -12,7 +12,6 @@ TODO: Add categories - I.e. hardware, bits, filament etc
 - https://www.stepcraft.dk/
 - https://cnchobby.dk/
 - https://makersupplies.dk/
-- 
 - https://www.junget.com/da-dk/shop
 
 #### 3D print
