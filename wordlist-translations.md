@@ -8,7 +8,7 @@ Danish: En oversættelsestabel for alle der prøver at finde ud af hvad et beste
  **English**                       | **German / Deutsch** | **Danish / Dansk** 
 -----------------------------------|----------------------|--------------------
  Spoilboard                        |                      |                    
- Bit                               |                      | Fræser             
+ Bit                               |                      | Fræser / Fræsejern             
  Upcut                             |                      | Positiv spiral     
  Downcut                           |                      | Negativ spiral     
  Surfacing Bit                     | Planfräser           | Planfræser         
