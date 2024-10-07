@@ -24,6 +24,8 @@ Danish: En oversættelsestabel for alle der prøver at finde ud af hvad et beste
 | Dial indicator                    |                      | Måleur             |
 | Knurling                          |                      | Roulletering       |
 | Self centering punch              |                      | Centerkørner       |
+| Riving Knife                      |                      | Spaltekniv         |
+
      
 
 
